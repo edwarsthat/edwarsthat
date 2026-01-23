@@ -37,7 +37,7 @@ A massive ERP/SCM infrastructure for the fruit export industry.
 ---
 
 ## 📊 GitHub Stats
-![Edwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwarsthat&show_icons=true&theme=tokyonight)
+![Edwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwarsthat&show_icons=true&theme=tokyonight&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwarsthat&layout=compact&theme=tokyonight)
 
 ---
